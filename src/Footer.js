@@ -11,9 +11,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 
 import LogoImage from './assets/logo.png';
-import Apst from './assets/applestore.png';
-import Plst from './assets/playstore.png';
-import Pay from './assets/pay.png';
+
 
 const Footer = () => {
   return (
